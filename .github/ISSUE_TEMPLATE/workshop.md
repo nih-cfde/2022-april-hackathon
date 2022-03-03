@@ -1,6 +1,6 @@
 ---
 name: New Workshop Session
-about: Create an issue describing training event where partipants will gain hand-ons practical experience. 
+about: Create an issue describing a training event where partipants will gain hands-on practical experience. 
 title: Session Title
 labels: 'workshop'
 ---
