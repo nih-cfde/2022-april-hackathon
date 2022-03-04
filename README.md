@@ -4,10 +4,10 @@ We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosti
 
 ## Website and Registration
 
-Stay tuned.
+To register, [sign up here](https://www.nih-cfde.org/events/april-2022-hackathon/).
 
 ## Sessions and Schedule
 
-Stay tuned for a detailed schedule. 
+If you would like to propose a session, please [complete this form](https://forms.gle/RbkR3p8HGnqGiNu69) by March 18.
 
-If you would like to propose a session, please open a [new issue](https://github.com/nih-cfde/2022-april-hackathon/issues/new/choose).
+Stay tuned for a detailed schedule. 
